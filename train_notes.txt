@@ -1,0 +1,6 @@
+
+Training notes for full accuracy:
+- Use GPU runtime (Colab) or a machine with CUDA-enabled GPU.
+- Recommended epochs: 30-100 depending on dataset size.
+- Use larger embedding and LSTM sizes if dataset is large (>10k samples).
+- Consider pretraining/fine-tuning transformers (huggingface) for best results.
