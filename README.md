@@ -59,11 +59,16 @@ The system provides high accuracy, making it suitable for content authenticity v
 
 **Model Summary:**
 --- ## **Author**
-*Sahitya Pandey* 
+
+*Prajjwal Pandey* 
 Roll No: 202210101150032 
 
-* Name* 
-Roll No: 2022101011500000 
+*Harsh Pandey* 
+Roll No: 202210101150059 
+*Anshika Pandey* 
+Roll No: 202210101150040
+*Anishka Singh* 
+Roll No: 202210101150023
 
 B.Tech (Computer Science) — Semester 7 
 
