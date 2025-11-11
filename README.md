@@ -55,10 +55,10 @@ The system provides high accuracy, making it suitable for content authenticity v
 
 ---
 
-## 🧠 Model Architecture
+## 🏁 Conclusion
 
-**Model Summary:**
---- ## **Author**
+The AI_Content_Classifier effectively distinguishes between human-written and AI-generated text using deep learning and NLP techniques. It demonstrates how artificial intelligence can be leveraged to promote content authenticity, academic honesty, and responsible use of generative AI technologies.
+--- ## 
 
 *Prajjwal Pandey* 
 Roll No: 202210101150032 
